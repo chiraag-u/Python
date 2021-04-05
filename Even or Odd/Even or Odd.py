@@ -1,5 +1,5 @@
 print("\nEven Or Odd")
-print("A Code to Detect if a number is Even or Odd\n")
+print("A Program to find if a number is Even or Odd\n")
 Number = input("Enter the Number: ")
 try:
     if int(Number) % 2 == 0:
