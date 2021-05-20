@@ -1,7 +1,7 @@
 import json
 DataObject = {
     "Name":"Chiraag",
-    "Many":"Nothing"
+    "Data":"You can add your Data..."
 }
 Option = input("Read or Write: ").capitalize()
 if Option == "Read":
